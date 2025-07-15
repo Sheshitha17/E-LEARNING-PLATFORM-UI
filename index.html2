@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Courses - E-Learn Hub</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Our Courses</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="courses.html">Courses</a>
+      <a href="dashboard.html">Dashboard</a>
+    </nav>
+  </header>
+
+  <main>
+    <div class="course-list">
+      <div class="course-card">
+        <img src="https://via.placeholder.com/300x150" alt="Course 1" />
+        <h3>Intro to Web Development</h3>
+        <p>Build your first website using HTML, CSS, and JavaScript.</p>
+        <a href="course-detail.html">View Course</a>
+      </div>
+      <div class="course-card">
+        <img src="https://via.placeholder.com/300x150" alt="Course 2" />
+        <h3>JavaScript for Beginners</h3>
+        <p>Master the fundamentals of JavaScript with real projects.</p>
+        <a href="course-detail.html">View Course</a>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 E-Learn Hub</p>
+  </footer>
+</body>
+</html>
