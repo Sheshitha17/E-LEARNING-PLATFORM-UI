@@ -9,3 +9,4 @@ The objective of this task is to design and develop the front-end of a multi-pag
 <img width="952" height="320" alt="Image" src="https://github.com/user-attachments/assets/0b169d3d-d8fc-4af3-9f0b-642c9cbb62cf" />
 <img width="951" height="343" alt="Image" src="https://github.com/user-attachments/assets/6fb4f02d-80ae-4982-80ce-d199a8c6b14f" />
 <img width="810" height="366" alt="Image" src="https://github.com/user-attachments/assets/302c46f0-e612-4c0e-96be-fd13cc9b7141" />
+<img width="938" height="299" alt="Image" src="https://github.com/user-attachments/assets/450fadcb-e3c1-4ef8-95da-46747fa0f82b" />
