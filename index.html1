@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>E-Learn Hub</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>E-Learn Hub</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="courses.html">Courses</a>
+      <a href="dashboard.html">Dashboard</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h2>Welcome to E-Learn Hub</h2>
+      <p>Learn anywhere, anytime. Explore our top-rated courses and track your learning journey.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 E-Learn Hub</p>
+  </footer>
+</body>
+</html>
